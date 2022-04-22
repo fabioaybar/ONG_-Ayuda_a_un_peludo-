@@ -1,0 +1,35 @@
+body {
+    background-image: url("ripper_roo.jpg");
+    
+    background-size: 27rem;
+}
+
+
+.fondorojo{
+    background-color: red;
+}
+
+.fondoazul{
+    background-color: blue;
+}
+
+.fondoamarillo{
+    background-color: yellow;
+}
+
+.fondorosa{
+    background-color: pink;
+}
+
+
+.colorrojo{
+    color: red;
+}
+
+.colorazul{
+    color: blue;
+}
+
+.centrar{
+    text-align: center;
+}
